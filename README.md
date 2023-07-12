@@ -2,7 +2,9 @@
 
 This app is for a Vending Machine. It allows customers to purchase products of their choice.
 
-![Uploading a54c5ab8-0177-4c57-9fa5-8f3bf82bca6e.gif…]()
+## Video Demo
+
+https://www.veed.io/view/ceeff960-79b8-4246-9676-88c2f397862f?panel=share
 
 ## Features
 
